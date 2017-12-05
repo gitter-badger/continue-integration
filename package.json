@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "test-cov": "istanbul cover _mocha -- -R spec test/sqrt-test.js"
+    "test": "make coverage"
   },
   "keywords": [],
   "author": "",
